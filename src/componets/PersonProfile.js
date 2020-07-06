@@ -34,7 +34,7 @@ const PersonProfile = () => {
                     return(
                         <tbody>
                             <tr>
-                                <th> <img src={item.picture.thumbnail}></img></th>
+                                <th> <img src={item.picture.thumbnail}/></th>
                                 <td>{item.name.first} {item.name.last}</td>
                                 <td>{item.email}</td>
                                 <td>{item.phone}</td>
