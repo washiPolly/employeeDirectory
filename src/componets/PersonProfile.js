@@ -2,16 +2,16 @@ import React, { useContext } from 'react';
 import PersonContext from './PersonContext';
 
 
+// const filterName = () => {
+//     return(
+
+//     )
+// }
+
+
 const PersonProfile = () => {
 
     const { users } = useContext(PersonContext);
-    // console.log(item.dob.date)
-    // const formatDob = () => {
-    //             var dob = item.dob.date;
-    //             var d = dob.slice(0,10).split('-');
-    //             d[1] + '/' + d[2] + '/' + d[0];  
-    //             return d;            
-    //     }
   
             return (
                 
