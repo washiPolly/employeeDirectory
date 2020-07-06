@@ -1,23 +1,23 @@
 {
-    "name": "employee-directory-build.github.io",
-    "version": "1.0.0",
-    "description": "",
-    "main": "app.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node app.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/washiPolly/employeeDirectory.github.io.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/washiPolly/employeeDirectory.github.io/issues"
-    },
-    "homepage": "https://github.com/washiPolly/employeeDirectory.github.io#readme",
-    "dependencies": {
-      "express": "^4.17.1"
-    }
+  "name": "employee-directory-build.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/washiPolly/employeeDirectory.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/washiPolly/employeeDirectory.github.io/issues"
+  },
+  "homepage": "https://github.com/washiPolly/employeeDirectory.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
   }
+}
